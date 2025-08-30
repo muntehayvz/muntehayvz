@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Münteha</h1>
-<h3 align="center">A passionate game developer from Turkey</h3>
+<h1 align="center">Hi 👋, I'm Nur</h1>
+<h3 align="center">A passionate game developer based in PA</h3>
 
 - 📫 How to reach me **muntehany10@gmail.com**
 
